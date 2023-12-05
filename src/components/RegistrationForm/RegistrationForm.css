@@ -1,0 +1,15 @@
+.registration-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    padding:1rem;
+}
+
+
+.registerform-btn{
+    margin-top: 1rem;
+    background-color:  rgb(103, 103, 246);
+    color: white
+}

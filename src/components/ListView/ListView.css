@@ -1,0 +1,20 @@
+
+
+.list-view{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.data-box{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto;
+    justify-content: center;
+    align-items: center;
+    width:80vw;
+    border: 1px solid black;
+}
+.img-box{
+    width: 100%;
+}
